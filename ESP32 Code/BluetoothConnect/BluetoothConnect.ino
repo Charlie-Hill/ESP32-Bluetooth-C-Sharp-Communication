@@ -1,25 +1,3 @@
-/*
- * HelTec Automation(TM) WIFI_Kit_32 factory test code, witch includ
- * follow functions:
- *
- * - Basic OLED function test;
- *
- * - Basic serial port test(in baud rate 115200);
- *
- * - LED blink test;
- *
- * - WIFI join and scan test;
- *
- * - Timer test and some other Arduino basic functions.
- *
- * by Aaron.Lee from HelTec AutoMation, ChengDu, China
- * 成都惠利特自动化科技有限公司
- * www.heltec.cn
- *
- * this project also realess in GitHub:
- * https://github.com/HelTecAutomation/Heltec_ESP32
-*/
-
 #include "heltec.h"
 #include "WiFi.h"
 #include "BluetoothSerial.h"
