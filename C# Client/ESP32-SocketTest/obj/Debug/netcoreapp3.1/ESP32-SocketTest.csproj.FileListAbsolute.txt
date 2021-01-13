@@ -1,0 +1,54 @@
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\ESP32-SocketTest.exe
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\obj\Debug\netcoreapp3.1\ESP32-SocketTest.csprojAssemblyReference.cache
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\obj\Debug\netcoreapp3.1\ESP32-SocketTest.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\obj\Debug\netcoreapp3.1\ESP32-SocketTest.AssemblyInfo.cs
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\ESP32-SocketTest.deps.json
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\ESP32-SocketTest.runtimeconfig.json
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\ESP32-SocketTest.runtimeconfig.dev.json
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\ESP32-SocketTest.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\ESP32-SocketTest.pdb
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\obj\Debug\netcoreapp3.1\ESP32-SocketTest.csproj.CopyComplete
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\obj\Debug\netcoreapp3.1\ESP32-SocketTest.dll
+C:\Users\me\source\repos\ESP32-SocketTest\ESP32-SocketTest\obj\Debug\netcoreapp3.1\ESP32-SocketTest.pdb
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\obj\Debug\netcoreapp3.1\ESP32-SocketTest.csprojAssemblyReference.cache
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\obj\Debug\netcoreapp3.1\ESP32-SocketTest.AssemblyInfoInputs.cache
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\obj\Debug\netcoreapp3.1\ESP32-SocketTest.AssemblyInfo.cs
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\obj\Debug\netcoreapp3.1\ESP32-SocketTest.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\obj\Debug\netcoreapp3.1\ESP32-SocketTest.pdb
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\ESP32-SocketTest.exe
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\ESP32-SocketTest.deps.json
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\ESP32-SocketTest.runtimeconfig.json
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\ESP32-SocketTest.runtimeconfig.dev.json
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\ESP32-SocketTest.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\ESP32-SocketTest.pdb
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\me\source\repos\ESP32-SocketTest\C# Client\ESP32-SocketTest\obj\Debug\netcoreapp3.1\ESP32-SocketTest.csproj.CopyComplete
